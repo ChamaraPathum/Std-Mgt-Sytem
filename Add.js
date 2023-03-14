@@ -9,7 +9,7 @@ const Add = () => {
   const [email, setEmail] = useState("");
 
   const Onlogin = () => {
-    fetch("http://192.168.43.227:3000/student", {
+    fetch("http://192.168.1.100:3000/student", {
       method: "POST",
       body: JSON.stringify({
         id: id,
