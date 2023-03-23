@@ -1,1 +1,1 @@
-This is stdudent mgt system App to manage students techstack => React Native | expressjs | MySQL
+This is stdudent mgt system App to manage students(CRUD operation) techstack => React Native | expressjs | MySQL
